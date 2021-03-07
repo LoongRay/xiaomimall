@@ -1,2 +1,3 @@
-var a = '1';
-var c = '2';
+var x = 1;
+var y = 2;
+var z = 3;
