@@ -1,3 +1,3 @@
-var x = 1;
-var y = 2;
-var z = 3;
+var x = 4;
+var y = 5;
+var z = 6;
